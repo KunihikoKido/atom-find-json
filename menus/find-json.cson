@@ -7,11 +7,11 @@
       'submenu': [
         {
           'label': 'Show'
-          'command': 'json-path-finder:show'
+          'command': 'json-path-finder:find'
         }
         {
           'label': 'Show Result Flatten'
-          'command': 'json-path-finder:show-result-flatten'
+          'command': 'json-path-finder:find-flatten'
         }
       ]
     ]
